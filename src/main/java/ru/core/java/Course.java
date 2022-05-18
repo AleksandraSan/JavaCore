@@ -1,4 +1,4 @@
-package ru.brains.geek;
+package ru.core.java;
 
 public class Course {
     Obstacle[] obstacles;
@@ -15,4 +15,5 @@ public class Course {
             }
         }
     }
+
 }

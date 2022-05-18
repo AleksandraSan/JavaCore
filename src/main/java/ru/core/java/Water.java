@@ -1,6 +1,6 @@
-package ru.brains.geek;
+package ru.core.java;
 
-public class Water extends Obstacle{
+public class Water extends Obstacle {
     private int distanсeSwim;
 
     public Water(int distanсeSwim){

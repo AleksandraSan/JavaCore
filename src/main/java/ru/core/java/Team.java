@@ -1,4 +1,4 @@
-package ru.brains.geek;
+package ru.core.java;
 
 public class Team {
     private String name;

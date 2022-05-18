@@ -1,4 +1,4 @@
-package ru.brains.geek;
+package ru.core.java;
 
 public class Turtle extends Animal{
     public Turtle(String name) {

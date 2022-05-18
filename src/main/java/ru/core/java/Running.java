@@ -1,6 +1,6 @@
-package ru.brains.geek;
+package ru.core.java;
 
-public class Running extends Obstacle {
+public class Running extends Obstacle{
     private int runDistance;
 
     public Running(int runDistance){
@@ -11,3 +11,4 @@ public class Running extends Obstacle {
         members.run(runDistance);
     }
 }
+

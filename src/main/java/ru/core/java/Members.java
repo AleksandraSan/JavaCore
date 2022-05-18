@@ -1,4 +1,4 @@
-package ru.brains.geek;
+package ru.core.java;
 
 public interface Members {
     void swim(int swimDistance);

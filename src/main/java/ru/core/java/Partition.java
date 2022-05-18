@@ -1,4 +1,4 @@
-package ru.brains.geek;
+package ru.core.java;
 
 public class Partition extends Obstacle{
     private int heightPartition;
